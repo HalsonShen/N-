@@ -4,7 +4,7 @@
 
 如果用“!”加上图片名称“[xxxx]”还有图片路径“(xxxx/xxxx/xx.xx)”就可以贴图片了，贴一般格式的图片可以很方便.。
 
-![正反面](D:\Tutor\Arduino Library\DFRobot_PERSON-master\SEN0245svg1.png)
+![正反面](D:\Tutor\Arduino Library\DFRobot_PERSON-master\N-\SEN0245svg1.png)
 
 
 
@@ -12,15 +12,15 @@
 
 ## 目录
 
-1. [Summary](# Summary)
-2. [Installation](# installation) 
+1. [Summary](#Summary)
+2. [Installation](#installation) 
 
-+ [Methods](# Methods)
-+ [Compatibility](# Compatibility)
-  - [Com1](# Com1)
++ [Methods](#Methods)
++ [Compatibility](#Compatibility)
+  - [Com1](#Com1)
 
-- [History](# History)
-- [Credits](# Credits)
+- [History](#History)
+- [Credits](#Credits)
 
 ### Summary
 
@@ -74,8 +74,6 @@
 
 添加代码的话只要在代码开始和结束的地方加三个撇，也就是单引号
 
-‘’‘
-
 ```c++
  /**
     * @brief 构造函数
@@ -113,8 +111,6 @@
     */
     uint8_t getAge(void);
 ```
-
-’‘’
 
 ### Compatibility
 
