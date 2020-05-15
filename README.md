@@ -4,7 +4,7 @@
 
 如果用“!”加上图片名称“[xxxx]”还有图片路径“(xxxx/xxxx/xx.xx)”就可以贴图片了，贴一般格式的图片可以很方便.。
 
-![正反面](D:\Tutor\Arduino Library\DFRobot_PERSON-master\N-\SEN0245svg1.png)
+![正反面](https://github.com/HalsonShen/N-/blob/master/SEN0245svg1.png)
 
 
 
